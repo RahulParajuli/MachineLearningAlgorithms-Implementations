@@ -35,7 +35,3 @@ On the basis of categories it can be divided into three types: <br>
 
 Organization uses insight produced by logistic regression to enhance their business strategy for achieving business goals such as reducing expenses or losses and increasing the ROI in marketing campaigns. <br>
 Likewise, a credit card company will develop a model to help it predict if a customer is going to default on its credit card based on such characteristics as annual income, monthly credit card payments and the number of defaults. In banking parlance, this is known as default propensity modeling.<br>
-
-
-
-
