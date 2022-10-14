@@ -7,3 +7,4 @@ Supervised Learning is a machine learning approach where the data are provided w
 ### Regression
 Regression analysis is the method which is used to find the relationship between independent variable with  continious output variables. <br>
 1. Linear Regression [GOTO](https://github.com/RahulParajuli/MachineLearningAlgorithms-Implementations/tree/main/Linear%20Regression) <br>
+2. Logistic Regression [GOTO](https://github.com/RahulParajuli/MachineLearningAlgorithms-Implementations/tree/main/Logistic%20Regression) <br>
